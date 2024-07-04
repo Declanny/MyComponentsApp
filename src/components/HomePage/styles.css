@@ -1,0 +1,14 @@
+.card-container {
+    padding: 20px;
+  }
+  
+  .card {
+    width: 100%;
+    transition: transform 0.3s ease-out;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px); /* Example: Slide up slightly on hover */
+    
+  }
+  
